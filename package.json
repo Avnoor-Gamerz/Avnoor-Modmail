@@ -1,0 +1,14 @@
+{
+  "name": "ag-modmail",
+  "version": "1.0.0",
+  "description": "ModMail for Avnoor Gamerz Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avnoor gamerz and nightmare",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
